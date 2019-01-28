@@ -3,3 +3,5 @@ data/
 ~$sample.xlsx
 src
 __pycache__
+flowers.*
+*.h5
