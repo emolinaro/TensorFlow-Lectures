@@ -1,6 +1,6 @@
 # TensorFlow Lectures
 
-I collect some Jupyter notebook tutorials on how to use TensorFlow.
+This repository contains simple Jupyter notebook tutorials on how to use TensorFlow.
 
 The notebooks are tested on:
   * Python v3.6.3
