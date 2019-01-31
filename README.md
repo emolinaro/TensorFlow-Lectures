@@ -1,4 +1,12 @@
-# TensorFlow-Lectures
+# TensorFlow Lectures
+
+I collect some Jupyter notebook tutorials on how to use TensorFlow.
+
+Content:
+
+- Lecture 1: 
+- Lecture 2:
+
 
 # Modules
 pip install tensorflow \
